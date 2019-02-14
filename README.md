@@ -26,11 +26,13 @@ The project is to extract as much info as possible from a livestream through a p
 - [ ] Using CNN to add points for pose estimation at specific parts of the whole picture for relationships classification *(experimental)*
 
 ## Workflow:
-1. Item 1
-2. Item 2
-3. Item 3
- * Item 3a
- * Item 3b
+1. Connecting to the ip webcam through your local network
+2. The image flow will be processed. At a frequency you provide, the curent frame will be saved as an image
+3. The different part of the pictur ein bounding boxes will be saved as different images
+4. The global picture will go through segmentation script
+5. Each segment will be saved as a picture
+6. All the different pictures will go through the different ad hoc modules to extract data
+
 ## How to use:
 
 ```
