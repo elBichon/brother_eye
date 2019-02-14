@@ -26,10 +26,8 @@ The project is to extract as much info as possible from a livestream through a p
 - [ ] Using CNN to add points for pose estimation at specific parts of the whole picture for relationships classification *(experimental)*
 
 ## Workflow:
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+*Connecting 
+*test
 ## How to use:
 
 ```
