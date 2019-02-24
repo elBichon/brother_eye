@@ -21,8 +21,7 @@ The project is to extract as much info as possible from a livestream through a p
 - [ ] For each picture, make it go through the fashion mnist classifier to detect the clothes
 - [ ] For each picture, extract the dominant color
 - [ ] For the face picture make it go through a cnn to extract gender, age, facial emotion
-- [ ] Perform segmentation on the whole picture and extract each segment containing objects *(not containing people)* to make it go through an object images classifier and extract the dominant colors
-- [ ] Perform segmentation on the whole picture and extract each segment containing people to make it go through an image classifier for group classification
+- [ ] Using tensorflow to grep some more information on the picture with built-in object detection
 - [ ] Using CNN to add points for pose estimation at specific parts of the whole picture for relationships classification *(experimental)*
 
 ## Workflow:
