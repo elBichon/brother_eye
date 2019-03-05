@@ -18,7 +18,6 @@ The project is to extract as much info as possible from a livestream through a p
 - [x] Interfacing with android ip webcam on smartphone through python
 - [x] Detecting faces, eyes, upper body, lower body and full body using haarcascade
 - [x] Creating a picture for each of the detected boxes
-- [ ] For each picture, make it go through the fashion mnist classifier to detect the clothes
 - [ ] For each picture, extract the dominant color
 - [ ] For the face picture make it go through a cnn to extract gender, age, facial emotion
 - [ ] Using tensorflow to grep some more information on the picture with built-in object detection
