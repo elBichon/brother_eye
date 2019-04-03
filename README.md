@@ -1,9 +1,8 @@
 # Brother_eye
-###### Brother eye is a suite of different image processing tools (face detection, color datection, classification...) that perform analysis on a video stream coming from an ip webcam.
+###### Brother eye is a suite of different image processing tools (face detection, color detection, classification...) that perform analysis on a video stream coming from an ip webcam.
 
 ## Motivation: 
-The project is to extract as much info as possible from a livestream through a portable interface (android smartphone) that can be reused for later purposes. It will be one of the brick (with sound, speech, language analysis and reinforcement learning) of a bigger experimental project.
-
+The project is to extract as much info as possible from a livestream through a portable interface (android smartphone) that can be reused for later purposes.
 ## Tech/Frameworks used:
 - [keras](https://keras.io/)
 - opencv
@@ -21,7 +20,7 @@ The project is to extract as much info as possible from a livestream through a p
 - [ ] For each picture, extract the dominant color
 - [ ] For the face picture make it go through a cnn to extract gender, age, facial emotion
 - [ ] Using tensorflow to grep some more information on the picture with built-in object detection
-- [ ] Using CNN to add points for pose estimation at specific parts of the whole picture for relationships classification *(experimental)*
+- [ ] Use the face picture to get the closest person in a dataset for person authentification
 
 ## Workflow:
 1. Connecting to the ip webcam through your local network
