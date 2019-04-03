@@ -1,6 +1,6 @@
 # Brother_eye
 ###### Brother eye is a suite of different image processing tools (face detection, color detection, classification...) that perform analysis on a video stream coming from an ip webcam.
-
+![alt text](https://thorne.uk.com/wp-content/uploads/2017/05/big-brother-eye.jpg)
 ## Motivation: 
 The project is to extract as much info as possible from a livestream through a portable interface (android smartphone) that can be reused for later purposes.
 ## Tech/Frameworks used:
