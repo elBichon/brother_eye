@@ -21,6 +21,7 @@ The project is to extract as much info as possible from a livestream through a p
 - [ ] For the face picture make it go through a cnn to extract gender, age, facial emotion
 - [ ] Using tensorflow to grep some more information on the picture with built-in object detection
 - [ ] Use the face picture to get the closest person in a dataset for person authentification
+- [ ] Counting number of persons going through (in case of a building apply recognition for people going in and out)
 
 ## Workflow:
 1. Connecting to the ip webcam through your local network
