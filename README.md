@@ -5,9 +5,9 @@
 The project is to extract as much info as possible from a livestream through a portable interface (android smartphone) that can be reused for later purposes.
 ## Tech/Frameworks used:
 - [keras](https://keras.io/)
-- opencv
-- haarcscade
-- python
+- [opencv](https://opencv.org/)
+- [haarcscade](https://www.python.org/)
+- [python](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 ## Project Structure:
 - webcam.py
